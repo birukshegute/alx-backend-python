@@ -4,4 +4,5 @@
 
 def add(a: float, b: float)-> float:
     """ all integers are annotated, and the return is float"""
+    
     return a + b
