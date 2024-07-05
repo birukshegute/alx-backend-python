@@ -4,7 +4,7 @@ takes a float n as argument and returns the string representation.
 """
 
 
-def to_str(n: float)-> str:
+def to_str(n: float) -> str:
     """
     returns thhe string representation of n.
     """
