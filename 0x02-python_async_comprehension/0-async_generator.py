@@ -3,7 +3,6 @@
 Perform the async_generator function
 """
 
-
 import asyncio
 import random
 from typing import Generator
